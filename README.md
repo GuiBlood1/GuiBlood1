@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuiBlood1
 - 👀 I’m interested in ... Node , Javascript and the structure of web
 - 🌱 I’m currently learning ... Web
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... My projects , only
 - 📫 How to reach me ... Only in Github
 
 <!---
