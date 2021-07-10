@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuiBlood1
+- 👋 Hi, I’m @GuiBloo1 or Guilherme Augusto
 - 👀 I’m interested in ... Node , Javascript and MongoDB
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... My projects , only
